@@ -1,0 +1,2 @@
+robo_leg
+-DCATKIN_DEVEL_PREFIX=/home/ommore5807/moveit_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ommore5807/moveit_ws/install -G Unix Makefiles
