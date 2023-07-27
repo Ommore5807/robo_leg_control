@@ -1,0 +1,8 @@
+prefix=/home/ommore5807/moveit_ws/install
+
+Name: robo_leg
+Description: Description of robo_leg
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
